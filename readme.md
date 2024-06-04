@@ -12,6 +12,7 @@
 9. [Results](#results)
 10. [Contributing](#contributing)
 11. [License](#license)
+![output](https://github.com/mudasir21/oral-cancer-detection-in-photographic-images/assets/102840359/94639f44-0d1f-4fbf-8047-121162557b9f)
 
 ## Introduction
 This project focuses on the analysis of oral cancer images. The aim is to download oral cancer image datasets from Kaggle and Mendeley, preprocess the data by removing duplicates and bounding boxes, and enhance the resolution of the images using a Single-Image Super-Resolution (SISR) model. The project also includes data augmentation, uploading augmented data to Google Drive, and running various models (CNN, VGG16, VGG19, DenseNet121) on Google Colab using transfer learning.
