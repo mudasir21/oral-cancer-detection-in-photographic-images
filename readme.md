@@ -19,8 +19,8 @@ This project focuses on the analysis of oral cancer images. The aim is to downlo
 
 ## Datasets
 We utilize the following datasets for this project:
+- **GMC Jammu**: Oral cancer photographic images from Govt. Medical College Jammu.
 - **Kaggle Oral Cancer Dataset**: A comprehensive collection of oral cancer images available on [Kaggle](https://www.kaggle.com/datasets/zaidpy/oral-cancer-dataset).
-- **Kaggle Tongue Lip Cancer Dataset**: A comprehensive collection of oral cancer images available on [Kaggle](https://www.kaggle.com/datasets/shivam17299/oral-cancer-lips-and-tongue-images.)
 - **Mendeley Oral Cancer Dataset**: Another valuable resource for oral cancer images, accessible on [Mendeley](https://data.mendeley.com/datasets/mhjyrn35p4/2).
 
 ## Table of Contents
@@ -41,8 +41,8 @@ This project focuses on the detection of oral cancer from photographicimages. Th
 
 ## Datasets
 We utilize the following datasets for this project:
+- **GMC Jammu**: Oral cancer photographic images from Govt. Medical College Jammu.
 - **Kaggle Oral Cancer Dataset**: A comprehensive collection of oral cancer images available on [Kaggle](https://www.kaggle.com/datasets/zaidpy/oral-cancer-dataset).
-- **Kaggle Yongue Lip Cancer Dataset**: A comprehensive collection of oral cancer images available on [Kaggle](https://www.kaggle.com/datasets/shivam17299/oral-cancer-lips-and-tongue-images.)
 - **Mendeley Oral Cancer Dataset**: Another valuable resource for oral cancer images, accessible on [Mendeley Data](https://data.mendeley.com/datasets/mhjyrn35p4/2).
 
 ## Installation
